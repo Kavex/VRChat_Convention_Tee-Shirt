@@ -1,4 +1,4 @@
-1. Install Font: https://fontmeme.com/fonts/dosis-font/
+1. Install Font: https://fontmeme.com/fonts/dosis-font/ (I used Dosis-Bold)
 2. Edit PSD
 3. Get a custom shirt printed at a local shirt graphic shop or online
 
